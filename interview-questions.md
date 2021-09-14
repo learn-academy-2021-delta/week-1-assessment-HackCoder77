@@ -36,7 +36,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
   Your answer: a function already designed into the JS language that runs by us just typing a short command.
 
-  Researched answer:
+  Researched answer: In JavaScript, built-in functions are the global functions that are called globally, rather than on an object.
 
 
 
@@ -44,7 +44,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
   Your answer: The driver writes the code and the other person tells them what to code.
 
-  Researched answer:
+  Researched answer: One, the driver, writes code while the other, the observer or navigator, reviews each line of code as it is typed in. The two programmers switch roles frequently.
 
 
 
